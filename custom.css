@@ -1,0 +1,139 @@
+.navbar, .bg-dark, .btn-info {
+	background-color: #354A94 !important;
+}
+
+.text-muted {
+	display: block;
+}
+
+a {
+  color: #F7FFF3;
+  text-decoration: none;
+  background-color: transparent;
+  -webkit-text-decoration-skip: objects;
+}
+
+a:hover {
+  color: #A1AEAF;
+  text-decoration: underline;
+}
+
+.about {
+	background-color: #FFFEFE;
+	width: 90%;
+	margin: 0 auto;
+}
+
+.about p {
+	text-align: center;
+	padding-top: 2.5%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	letter-spacing: 0.1em;
+	color: #154F32;
+	font-size: 20px;
+	text-transform: uppercase;
+}
+
+.bash {
+	border-radius: 5px;
+	width: 75%;
+	margin: 0 auto;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	font-size: 30px;
+	background: #ccc;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-align: left;
+	font-size: 13px;
+	color: #00892E;
+}
+
+.output {
+	max-width: 90%;
+	padding: 20px;
+	height: auto;
+	margin: 0 auto;
+	background-color: #000000;
+}
+
+.answer {
+	max-width: 90%;
+}
+
+#social-media {
+	text-align: center;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	letter-spacing: 0.1em;
+	color: #154F32;
+	font-size: 20px;
+	text-transform: uppercase; 
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.social {
+	font-size: 18px;
+	padding-top: 50px;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+a.social {
+	color: #000000;
+}
+
+.resume-info {
+	text-align: center;
+	padding-top: 2.5%;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	letter-spacing: 0.1em;
+	color: #154F32;
+	font-size: 15px;
+	text-transform: uppercase;
+	display: block;
+}
+
+a.resume-info {
+	text-decoration: underline;
+	font-size: 30px;
+}
+
+.center {
+	text-align: center;
+}
+
+.list {
+	display: inline-block;
+	text-align: left;
+}
+
+#carouselExampleControls {
+	height: 500px;
+	width: 450px;
+	margin: auto;
+}
+
+p.project-description {
+	text-transform: none;
+	text-align: left;
+	letter-spacing: normal;
+}
+
+#profile-picture {
+	max-width: 30%;
+	margin: auto;
+	display: block;
+}
+
+@media (max-width: 768px) {
+
+	li {
+		white-space: pre;
+	}
+
+	#profile-picture {
+		max-width: 100%;
+	}
+
+
+}
