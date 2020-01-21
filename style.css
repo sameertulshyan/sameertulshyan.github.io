@@ -94,7 +94,7 @@ a img {
 
 #about {
   background-color: #4683A9;
-  height: 960px;
+  height: 860px;
   margin-top:-30px;
 }
 
@@ -105,7 +105,7 @@ a img {
   padding-top:15px;
   font-size:30px;
   background: #ABADAD;
-  height: 620px;
+  height: 570px;
   font-family: 'Monaco', 'Courier New';
   text-align: left;
   font-size:13px;
@@ -115,7 +115,7 @@ a img {
 #console {
   width:670px;
   padding: 40px;
-  height: 520px;
+  height: 470px;
   margin:0 auto;
   background: #303030;
 }
